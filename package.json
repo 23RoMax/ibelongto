@@ -1,0 +1,28 @@
+{
+    "author": "max.nebl@googlemail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "i-belong-to",
+    "pebble": {
+        "displayName": "I belong to ",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "7290fe0f-6af9-4cce-af6e-cea73b9bd630",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
